@@ -1,0 +1,23 @@
+.product{
+    max-width: 100%;
+    height: 100%;
+    background: lightgrey;
+    background: radial-gradient(white 30%, lightgrey 70%);
+}
+
+.fa-star{
+    color: rgb(243, 188, 7);
+    padding: 3% 0;
+}
+
+.shopping-cart{
+    padding: 3% 0;
+}
+
+.pad{
+    padding: 2% 0;
+}
+
+.price-details h6{
+    padding: 3% 2%;
+}

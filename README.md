@@ -4,6 +4,8 @@
 * Styles and document structure, developed with html and bootstrap css framework.
 * Icons used: Font awesome.
 * Project contains a full functional API with MySql Connection (Script included).
+* Stack used -> WAMP.
+* Local Server used XAMPP.
 
 * Sql Query to populate the DB. 
 

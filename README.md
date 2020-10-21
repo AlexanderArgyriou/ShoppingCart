@@ -1,9 +1,9 @@
 # ShoppingCart
 
-* An object oriented php approach to build an aestetic and functional Shopping cart.
+* An object oriented php approach to build an aesthetic and functional Shopping cart.
 * Styles and document structure, developed with html and bootstrap css framework.
 * Icons used: Font awesome.
-* Project contains a full functional API with MySql Connection (Script included).
+* Project contains a full functional API with MySQL Connection (Script included).
 * Stack used -> WAMP.
 * Local Server used XAMPP.
 
